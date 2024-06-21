@@ -1,0 +1,10 @@
+[debug] [2024-06-20T15:16:47.458Z] ----------------------------------------------------------------------
+[debug] [2024-06-20T15:16:47.461Z] Command:       /opt/homebrew/Cellar/node/21.7.1/bin/node /opt/homebrew/bin/firebase use
+[debug] [2024-06-20T15:16:47.461Z] CLI Version:   13.11.2
+[debug] [2024-06-20T15:16:47.461Z] Platform:      darwin
+[debug] [2024-06-20T15:16:47.461Z] Node Version:  v21.7.1
+[debug] [2024-06-20T15:16:47.461Z] Time:          Thu Jun 20 2024 22:16:47 GMT+0700 (Western Indonesia Time)
+[debug] [2024-06-20T15:16:47.461Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-06-20T15:16:47.465Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-06-20T15:16:47.466Z] > authorizing via signed-in user (bagusfarizky89@gmail.com)
